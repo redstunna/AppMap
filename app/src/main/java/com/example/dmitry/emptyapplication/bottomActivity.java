@@ -6,6 +6,10 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
+//import android.service.
+//import com.google.android.gms.location.
+
+import com.google.android.gms.location.sample.basiclocationsample.R;
 
 public class bottomActivity extends AppCompatActivity {
 

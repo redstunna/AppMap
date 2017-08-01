@@ -4,6 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.google.android.gms.location.sample.basiclocationsample.R;
+
 public class changeText extends AppCompatActivity {
 
     @Override
